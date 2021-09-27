@@ -1,7 +1,9 @@
 
 require './human'
 
-
+tanaka = Human.new("電車")
+suzuki = Human.new("野球")
+sato   = Human.new("映画")
     
 
 
